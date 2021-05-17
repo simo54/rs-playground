@@ -1,0 +1,22 @@
+{
+  "name": "rs-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "re:build": "rescript",
+    "re:start": "rescript build -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simo54/rs-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simo54/rs-playground/issues"
+  },
+  "homepage": "https://github.com/simo54/rs-playground#readme"
+}
