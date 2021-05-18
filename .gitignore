@@ -105,5 +105,7 @@ dist
 
 # Merlin 
 .merlin
+/lib/
+.DS_Store
+.bsb.lock
 
-lib
