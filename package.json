@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/simo54/rs-playground/issues"
   },
-  "homepage": "https://github.com/simo54/rs-playground#readme"
+  "homepage": "https://github.com/simo54/rs-playground#readme",
+  "devDependencies": {
+    "rescript": "^9.1.2"
+  }
 }
